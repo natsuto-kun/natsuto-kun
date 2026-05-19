@@ -1,2 +1,2 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuto-kun&show_icons=true&count_private=true&theme=dark)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=natsuto-kun&langs_count=3&theme=dark&hide=jupyter%20notebook,html)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuto-kun&hide=contribs,prs&theme=tokyonight)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=natsuto-kun&layout=compact&hide=html&theme=tokyonight)
