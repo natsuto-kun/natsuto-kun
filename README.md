@@ -18,13 +18,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natsuto-kun&show_icons=true&theme=tokyonight&v=1" alt="natsuto-kun's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=natsuto-kun&show_icons=true&theme=tokyonight" alt="natsuto-kun's GitHub Stats" />
 </p>
 
 ### 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuto-kun&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsuto-kun&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
